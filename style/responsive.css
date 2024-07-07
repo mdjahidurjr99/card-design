@@ -1,0 +1,6 @@
+@media screen and (max-width: 576px){
+    .card-design{
+        flex-direction: column;
+        justify-content: center;
+    }
+}
