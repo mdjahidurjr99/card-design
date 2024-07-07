@@ -2,7 +2,9 @@
     .card-design{
         flex-direction: column;
         justify-content: center;
-        height: 1400px;
+    }
+    .card{
+        height: 400px;
     }
 }
 @media screen and (min-width: 431px) and (max-width: 576px) {
